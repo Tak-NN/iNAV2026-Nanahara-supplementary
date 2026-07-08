@@ -1,4 +1,4 @@
-## Primarily findings
+## Preliminary findings
 
 ### Participants' behaviour was categorised into following units by **data-driven, unsupervised learning**.
 - stopping
